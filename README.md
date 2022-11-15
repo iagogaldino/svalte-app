@@ -1,6 +1,7 @@
-## Developing
-
-Execute npm install
+## Execute
+  
+```bash
+npm install
 
 
 ## Developing
